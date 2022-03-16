@@ -6,4 +6,3 @@
 - 😄 Pronouns: she/her
 <div>
   <a href="https://github.com/Lunayuu">
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lunayuu)](https://github.com/Lunayuu/github-readme-stats)
